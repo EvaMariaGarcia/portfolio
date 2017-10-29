@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# Portfolio
-=======
-# Portfolio 
 
->>>>>>> Stashed changes
+# Portfolio 
 - [Portfolio Website](http://evamariagarcia.github.io/portfoliosite/index.html)
