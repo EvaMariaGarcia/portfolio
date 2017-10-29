@@ -66,6 +66,7 @@ p {font-size: 20px;
     margin-right: 12em;
 line-height: 40px;
 letter-spacing: 2px;
+    padding-top: 5em;
  }
 /* --Divs-- */
 
@@ -92,7 +93,12 @@ padding-bottom: 40em;}
 
 .about {padding-top: 3em;}
 
+.explore {position: absolute;
+    top: 106em;
+left: 36em;}
 
+.aboutme { background-color: #414042;
+padding-bottom: 50px;}
 
 /*--Images--*/
 img { display: block;
@@ -105,7 +111,6 @@ margin: auto;
     left: 50px;
 }
 
-
 .visualmark {float: center;
 max-width: auto;
 height: 100%;
@@ -115,6 +120,33 @@ width: 100%; }
 max-width: auto;
 height: 100%;
 width: 100%; }
+
+
+/*--Button--*/ 
+
+.btn {
+  width: 250px;
+  height: 60px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow:  rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;}
+
+.btn:hover {
+  background-color: grey;
+      box-shadow: grey;
+  color: #fff;
+  transform: translateY(-7px);
+}
+
 
 /*--Grid--*/ 
     .box {

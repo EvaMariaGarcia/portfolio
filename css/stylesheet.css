@@ -192,7 +192,8 @@ width: 100%; }
     
 /*--Icons--*/
 .icons {margin: 0 auto;
-    padding-top: 24em;
+    padding-top: 20em;
+    padding-bottom: 12em;
     width: 26em;}
 
 .icons:hover img{
@@ -213,8 +214,7 @@ footer {background-image: url(homepage.png);
     background-color: black;
     width: 100%; 
 color: white;
-text-align: center;
-padding-bottom: 15em;}
+text-align: center;}
 
 /*--tablet--*/
 @media (max-width: 1000px) {
