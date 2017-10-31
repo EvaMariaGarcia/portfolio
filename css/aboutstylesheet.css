@@ -91,11 +91,9 @@ letter-spacing: 2px;
 background-color: black;
 padding-bottom: 40em;}
 
-.about {padding-top: 3em;}
+.about {padding-top: 4em;}
 
-.explore {position: absolute;
-    top: 106em;
-left: 36em;}
+.explore {padding-left: 38em;}
 
 .aboutme { background-color: #414042;
 padding-bottom: 50px;}
@@ -124,8 +122,7 @@ width: 100%; }
 
 /*--Button--*/ 
 
-.btn {
-  width: 250px;
+.btn {width: 250px;
   height: 60px;
   font-family: 'Montserrat', sans-serif;
   font-size: 15px;
