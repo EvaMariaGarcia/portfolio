@@ -93,6 +93,10 @@ padding-bottom: 40em;}
 
 .about {padding-top: 4em;}
 
+.explore {position: absolute;
+top: 113em;    
+left: 34em;}
+
 
 .aboutme { background-color: #414042;
 padding-bottom: 50px;}
