@@ -93,10 +93,10 @@ padding-bottom: 40em;}
 
 .about {padding-top: 4em;}
 
-.explore {padding-left: 38em;}
 
 .aboutme { background-color: #414042;
 padding-bottom: 50px;}
+
 
 /*--Images--*/
 img { display: block;
@@ -161,8 +161,11 @@ width: 100%; }
     }
     .work {
         grid-column: col3-start ;
-        grid-row: row1-start / row2-end;
-    }
+        grid-row: row1-start / row2-end;}
+        
+    .explore { grid-column: col1-start;
+        grid-row: row2-start ;} 
+        
 /*--Image Grid--*/ 
 #rig {
     width:100%;

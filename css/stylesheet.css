@@ -125,8 +125,8 @@ width: 100%; }
   position: relative;
   white-space: nowrap;
 /*animation*/
--webkit-animation:move 5s;
-   -moz-animation:move 5s;
+-webkit-animation:move 10s;
+   -moz-animation:move 10s;
     
 /*--iteration-count--*/
 -webkit-animation-iteration-count:infinite;
@@ -138,13 +138,14 @@ width: 100%; }
 }
 @keyframes move{
 0%  { top: 0px; }
-80% { top: -75px; }
+80% { top: -285px; }
 }
 
 @-webkit-keyframes move {
     0%  { top: 0px; }
-    80% { top: -75px; }
+    80% { top: -285px; }
 }
+
 
 /*--Button--*/ 
 
