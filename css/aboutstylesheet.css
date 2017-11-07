@@ -135,7 +135,9 @@ width: 100%; }
   border-radius: 45px;
   box-shadow:  rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease 0s;
-  cursor: pointer;}
+  cursor: pointer;
+margin-left: auto;
+margin-right: auto;}
 
 .btn:hover {
   background-color: grey;
