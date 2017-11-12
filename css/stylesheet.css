@@ -104,7 +104,7 @@ width: 100%; }
 /*--Text Animation--*/
 
 .Iam {
-  font:  40px/50px Amatic SC, cursive;;
+  font:  40px/50px 'Montserrat', sans-serif;
   color: #999;
 }
 .Iam p {
